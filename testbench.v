@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: UoH
+// Engineer: Piyush Kumar
 // 
 // Create Date: 05/30/2019 07:18:23 PM
 // Design Name: 
-// Module Name: tb
-// Project Name: 
+// Module Name: Diagonal matrix inverse test bench
+// Project Name: Test bench
 // Target Devices: 
 // Tool Versions: 
 // Description: 
