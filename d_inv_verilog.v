@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: UoH 
+// Engineer: Piyush Kumar
 // 
-// Create Date: 05/30/2019 07:12:20 PM
+// Create Date: 03/31/2018 10:23:57 AM
 // Design Name: 
-// Module Name: d_inv_syn
-// Project Name: 
+// Module Name: Diagonal Matrix Inverse   
+// Project Name: d_inv_verilog
 // Target Devices: 
 // Tool Versions: 
 // Description: 
@@ -18,9 +18,10 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
 
 
-module d_inv_syn(clk, rst, en, d_in, d_out, flag_out);
+module d_inv_verilog(clk, rst, en, d_in, d_out, flag_out);
 
    input clk,rst,en;
 
